@@ -1,0 +1,14 @@
+.bang{
+    height: 100px;
+    width: 100px;
+}
+td, th{
+    border: 1px solid ;
+    text-align: left;
+    padding: 8px;
+}
+.list{
+    font-size: medium ;
+    display: flex;
+    
+   }
