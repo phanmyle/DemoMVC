@@ -7,4 +7,13 @@ public class StudentController : Controller
     {
         return View();
     }
+    [HttpPost]
+     public IActionResult Index(string fullName)
+    {
+        return View();
+    }
+    public IActionResult Demo()
+{
+    return View();
+}
 }
